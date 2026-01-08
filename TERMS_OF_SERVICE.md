@@ -1,6 +1,6 @@
 # Terms of Service - Daily Deals
 
-**Last Updated:** [DATE]
+**Last Updated:** January 8, 2026
 
 ---
 
@@ -18,7 +18,7 @@ By installing, accessing, or using the Daily Deals application ("App"), you agre
 
 **"You"**, **"User"**, or **"Merchant"** refers to the individual or business entity that has installed and is using the App.
 
-**"We"**, **"Us"**, or **"Our"** refers to [YOUR COMPANY NAME], the provider of the App.
+**"We"**, **"Us"**, or **"Our"** refers to Tigran, the provider of the App.
 
 **"Shopify"** refers to Shopify Inc., the e-commerce platform on which our App operates.
 
@@ -134,7 +134,7 @@ We retain your data only as long as necessary to provide the Service or as requi
 ## 8. Intellectual Property
 
 ### 8.1 Our Rights
-The App, including all code, features, functionality, and content, is owned by [YOUR COMPANY NAME] and is protected by copyright, trademark, and other intellectual property laws.
+The App, including all code, features, functionality, and content, is owned by Tigran and is protected by copyright, trademark, and other intellectual property laws.
 
 ### 8.2 Your Rights
 Subject to these Terms, we grant you a limited, non-exclusive, non-transferable license to use the App for your business purposes.
@@ -195,7 +195,7 @@ Nothing in these Terms excludes liability for:
 
 ## 11. Indemnification
 
-You agree to indemnify, defend, and hold harmless [YOUR COMPANY NAME], its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+You agree to indemnify, defend, and hold harmless Tigran from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
 
 - Your use of the App
 - Your violation of these Terms
@@ -275,16 +275,16 @@ If you don't agree to the new Terms, you must stop using the App.
 ## 16. Governing Law and Dispute Resolution
 
 ### 16.1 Governing Law
-These Terms are governed by the laws of [YOUR JURISDICTION] without regard to conflict of law principles.
+These Terms are governed by the laws of Armenia without regard to conflict of law principles.
 
 ### 16.2 Jurisdiction
-Any disputes shall be resolved in the courts of [YOUR JURISDICTION].
+Any disputes shall be resolved in the courts of Armenia.
 
 ### 16.3 Informal Resolution
-Before filing a claim, we encourage you to contact us at [YOUR SUPPORT EMAIL] to seek informal resolution.
+Before filing a claim, we encourage you to contact us at tigranphd@gmail.com to seek informal resolution.
 
-### 16.4 Arbitration (Optional)
-[IF APPLICABLE] You agree that disputes will be resolved through binding arbitration, except for intellectual property disputes or small claims court matters.
+### 16.4 Arbitration
+Disputes may be resolved through informal negotiation or mediation before resorting to formal legal proceedings.
 
 ### 16.5 Class Action Waiver
 You agree to resolve disputes individually and waive any right to participate in class actions.
@@ -312,7 +312,7 @@ Nothing in these Terms creates a partnership, joint venture, employment, or agen
 We're not liable for delays or failures due to circumstances beyond our reasonable control.
 
 ### 17.7 Contact for Legal Notices
-Legal notices should be sent to: [YOUR LEGAL EMAIL/ADDRESS]
+Legal notices should be sent to: tigranphd@gmail.com
 
 ---
 
@@ -320,13 +320,13 @@ Legal notices should be sent to: [YOUR LEGAL EMAIL/ADDRESS]
 
 For questions about these Terms, please contact us:
 
-**Company:** [YOUR COMPANY NAME]  
-**Email:** [YOUR SUPPORT EMAIL]  
-**Website:** [YOUR WEBSITE]  
-**Address:** [YOUR COMPANY ADDRESS]
+**Developer:** Tigran  
+**Email:** tigranphd@gmail.com  
+**Website:** https://prodify.app  
+**Location:** Armenia
 
-For technical support: [YOUR SUPPORT EMAIL]  
-For privacy inquiries: [YOUR PRIVACY EMAIL]
+For technical support: tigranphd@gmail.com  
+For privacy inquiries: tigranphd@gmail.com
 
 ---
 
@@ -363,10 +363,10 @@ Shopify doesn't endorse or warrant this App. All support is provided by us, not 
 **IMPORTANT - Please Read:**
 
 ✅ **What We Do:** Automatically manage discount collections for your Shopify store  
-✅ **What You Pay:** [FREE / Pricing details from App Store listing]  
+✅ **What You Pay:** See pricing in App Store listing  
 ✅ **Your Data:** We protect your data per our Privacy Policy  
 ✅ **Cancellation:** Cancel anytime through Shopify admin  
-✅ **Support:** We provide support via [YOUR SUPPORT EMAIL]  
+✅ **Support:** We provide support via tigranphd@gmail.com  
 
 ⚠️ **Important Disclaimers:**
 - Service provided "as is" without guarantees
@@ -374,13 +374,13 @@ Shopify doesn't endorse or warrant this App. All support is provided by us, not 
 - You're responsible for how you use the App
 - Must comply with all applicable laws
 
-📧 **Questions?** Contact us at [YOUR SUPPORT EMAIL]
+📧 **Questions?** Contact us at tigranphd@gmail.com
 
 ---
 
 **By continuing to use Daily Deals, you agree to these Terms of Service.**
 
-**Last Updated:** [DATE]  
+**Last Updated:** January 8, 2026  
 **Version:** 1.0
 
 ---

@@ -1,11 +1,11 @@
 # Privacy Policy for Daily Deals
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** January 8, 2026
 
-**Company Name:** [YOUR COMPANY NAME]  
+**Developer Name:** Tigran  
 **App Name:** Daily Deals  
-**Contact Email:** [YOUR EMAIL]  
-**Website:** [YOUR WEBSITE]
+**Contact Email:** tigranphd@gmail.com  
+**Website:** https://prodify.app
 
 ---
 
@@ -84,7 +84,7 @@ We use the collected information for the following purposes:
 ## Data Storage and Security
 
 ### Storage Location
-Your data is stored securely in [SPECIFY REGION - e.g., "United States", "European Union", etc.] using industry-standard PostgreSQL databases.
+Your data is stored securely on your local infrastructure in Armenia using industry-standard SQLite/PostgreSQL databases.
 
 ### Security Measures
 We implement appropriate technical and organizational measures including:
@@ -100,7 +100,7 @@ We retain your data for as long as:
 - You have the app installed, OR
 - As required by law or business purposes
 
-After app uninstallation, your data is automatically deleted within [SPECIFY TIMEFRAME - e.g., "30 days"].
+After app uninstallation, your data is automatically deleted within 30 days.
 
 ---
 
@@ -112,12 +112,7 @@ We do NOT sell your personal information. We may share information in the follow
 We share necessary data with Shopify to provide app functionality through the Shopify API.
 
 ### Service Providers
-We may share data with trusted third-party service providers who assist us in:
-- Database hosting ([SPECIFY PROVIDER])
-- Analytics ([SPECIFY IF ANY])
-- Error monitoring ([SPECIFY IF ANY])
-
-All service providers are contractually obligated to protect your data.
+We do not currently share data with third-party service providers. All data is stored on our own infrastructure.
 
 ### Legal Requirements
 We may disclose information if required by law or in response to:
@@ -149,7 +144,7 @@ If you are a California resident, you have the right to:
 5. Non-discrimination for exercising your rights
 
 ### Exercising Your Rights
-To exercise any of these rights, contact us at: [YOUR EMAIL]
+To exercise any of these rights, contact us at: tigranphd@gmail.com
 
 We will respond to verified requests within 30 days.
 
@@ -163,9 +158,8 @@ We use essential cookies to:
 - Remember your preferences
 - Ensure app functionality
 
-### Analytics (if applicable)
-[IF USING ANALYTICS, DESCRIBE HERE]
-We use [ANALYTICS PROVIDER] to understand app usage. You can opt-out by [METHOD].
+### Analytics
+We do not currently use third-party analytics or tracking tools.
 
 ---
 
@@ -179,11 +173,11 @@ If you believe we have collected information from a child under 16, please conta
 
 ## International Data Transfers
 
-If you are accessing Daily Deals from outside [YOUR COUNTRY], your data may be transferred to and stored in [YOUR COUNTRY].
+If you are accessing Daily Deals from outside Armenia, your data may be transferred to and stored in Armenia.
 
 We ensure appropriate safeguards are in place for international transfers, including:
-- Standard Contractual Clauses (where applicable)
-- Privacy Shield certification (if applicable)
+- Secure encrypted connections (TLS/SSL)
+- Compliance with GDPR requirements for data protection
 
 ---
 
@@ -192,7 +186,7 @@ We ensure appropriate safeguards are in place for international transfers, inclu
 We may update this Privacy Policy from time to time. We will notify you of changes by:
 - Posting the new Privacy Policy in the app
 - Updating the "Last Updated" date
-- [OPTIONALLY] Sending an email notification
+- Sending an email notification for significant changes
 
 Continued use of the app after changes constitutes acceptance of the updated policy.
 
@@ -208,11 +202,11 @@ Daily Deals may contain links to third-party websites. We are not responsible fo
 
 If you have questions about this Privacy Policy, please contact us:
 
-**Email:** [YOUR EMAIL]  
-**Address:** [YOUR BUSINESS ADDRESS]  
-**Phone:** [YOUR PHONE NUMBER - OPTIONAL]
+**Email:** tigranphd@gmail.com  
+**Location:** Armenia  
+**Website:** https://prodify.app
 
-For data protection inquiries from EU users, contact our Data Protection Officer at: [DPO EMAIL - IF REQUIRED]
+For data protection inquiries, please use the email address above.
 
 ---
 
@@ -253,3 +247,4 @@ Daily Deals is committed to compliance with:
 3. Update based on your actual data practices
 4. Host this on your website
 5. Keep it updated as your practices change
+3. Update based on your actual data practices
